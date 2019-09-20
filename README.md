@@ -1,4 +1,4 @@
-# laravel-clear-cache
+# Laravel Clear Cache
 Bash script allow to clear all Laravel cache
 
 # How To
